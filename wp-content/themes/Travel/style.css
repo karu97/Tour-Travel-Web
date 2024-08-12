@@ -1,0 +1,15 @@
+/*
+Theme Name: Travel
+Theme URI: 
+Author: Praveen Karunanayake
+Author URI: http://example.com/
+Description: Tour-Travel-Web
+Version: 6.6.1
+Text Domain: your-theme
+*/
+
+
+.category-img {
+    display: flex !important;
+    justify-content: center !important;
+}
